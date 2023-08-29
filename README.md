@@ -1,1 +1,1 @@
-My first readme
+Communication is the key 
